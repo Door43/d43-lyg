@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lyg:home|Door43 (lyg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lyg|d43-lyg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lyg/archive/master.zip|d43-lyg.zip]]
+
+**Recent Changes**
+{{changes>ns = lyg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lyg|Ethnologue data]]
+
